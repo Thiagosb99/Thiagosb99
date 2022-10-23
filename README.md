@@ -1,13 +1,11 @@
-## *Wellcome*
-
 <div align="center">
   <a href="https://github.com/Thiagosb99">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagosb99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagosb99&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagosb99&layout=compact&langs_count=10&theme=tokyonight"/>
   </a>
 </div>
 
-##### Ferramentas e Tecnologias
+#### Ferramentas e Tecnologias
 ###### Tools & technologies
 
 <div>
@@ -32,7 +30,7 @@
 </div>
 
 
-##### Estudando atualmente
+#### Estudando atualmente
 ###### Learning
 
 <div>
@@ -47,9 +45,13 @@
 </div>
 
 
-#### Contatos
+#### Contato
 ###### Contact me
 
 <div>
-  <a href = "thiagosb99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
+
+<div>
+  <span>thiagosb99@gmail.com</span>
 </div>
